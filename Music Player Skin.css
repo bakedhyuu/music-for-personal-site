@@ -15,9 +15,9 @@
 #player #list{ right:1270px; }    
  
 #player #seeker{ right:8888888888888888888888px; }  
-#player #seekerBase{ border-color:/*#fff*/ none;  } 
-#player #seekerBuffered{ background-color:/*#fff*/ none; }  
-#player #seekerSliderBase{ background-color:/*#fff*/ none; } 
+#player #seekerBase{ border-color:#fff;  } 
+#player #seekerBuffered{ background-color:#fff; }  
+#player #seekerSliderBase{ background-color:#fff; } 
 
 #player #volume{ width:8888888px; right:8888888px; } 
 #player #volumeSlider{ width:777777px; background:url(); }
