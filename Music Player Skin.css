@@ -1,5 +1,5 @@
 #player,#player a{ color:#607480; font-size: 11px; font-family: silkscreen; text-transform:normal; } 
-#player{ background:/*url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;*/ none;}
+#player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;}
 #player .mainImage{ background:url(http://static.tumblr.com/su8juwr/17Jn0sz3n/miniskinpreto.png); }
 
 #player #baseLeft{ width:93px; } 
